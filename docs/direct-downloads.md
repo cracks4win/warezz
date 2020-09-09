@@ -131,6 +131,7 @@ sidebar_label: DDL
 
 ## DDL Link Sites
 
+- [Cracks4Win](https://www.cracks4win.com/) - Free Download Crack Software & Games for PC, MacOS and Android.
 - [snahp.it](https://snahp.it/) - Replaced /r/megalinks.
   - [Snahp.it Forum](https://forum.snahp.it/) - (registration disabled) - A popular forum which provides links to HD rips & software (mostly mega & zippyshare).
 - [BlackPearl.biz](https://blackpearl.biz/) - Drop-in replacement for snahp.it while their registrations remain closed.
